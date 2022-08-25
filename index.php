@@ -25,8 +25,3 @@ echo "Welcone, " . '<h1>' . $name[0] . '</h1>';
     ?>
     
 </ul>
-
-<h1>Hello World</h1>
-
-<h2>Learnign PHP</h2>
-
